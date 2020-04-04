@@ -1,1 +1,1 @@
-print "Hello World Py"
+print "Hello World Python"
